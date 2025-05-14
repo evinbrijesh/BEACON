@@ -1,8 +1,8 @@
-# Beacon - Anti-Drug Addiction Support App
+# BEACON - Anti-Drug Addiction Support App
 
 ## Overview
 
-Beacon is a mobile application designed to support individuals struggling with drug addiction by providing a platform to track challenges, milestones, and progress throughout their recovery journey. The app serves as a companion tool to encourage users to stay committed to their goals and receive motivational support.
+BEACON is a mobile application designed to support individuals struggling with drug addiction by providing a platform to track challenges, milestones, and progress throughout their recovery journey. The app serves as a companion tool to encourage users to stay committed to their goals and receive motivational support.
 
 ## Features
 
@@ -36,3 +36,9 @@ Beacon is a mobile application designed to support individuals struggling with d
 * Implement a reward system for completing challenges.
 * Add a journaling feature for users to log their thoughts and progress.
 * Expand the resources section to include more educational content.
+
+## Contributions
+
+- [Evin Brijesh](https://github.com/evinbrijesh)
+- [Fayol Emmanuel](https://github.com/Fayol-01)
+- [Basil Yohan Mathew]
